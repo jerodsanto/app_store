@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>page-type</key>
+  <dict>
+    <key>template-name</key><string>search</string>
+    <key>template-parameters</key>
+    <dict>
+    </dict>
+  </dict>
+  <key>title</key><string>Search</string>
+  <key>store-version</key><string>1.0</string>
+  <key>store-client-application</key><string>Software</string>
+  <key>pings</key>
+  <array>
+    <string>http://metrics.apple.com/b/ss/applesuperglobal/1/G.6--NS?pccr=true&amp;ch=App%20Store-Search&amp;g=http%3A%2F%2Fax.search.itunes.apple.com%2FWebObjects%2FMZSearch.woa%2Fwa%2Fsearch%3Fmedia%3Dsoftware%26term%3Dbible&amp;pageName=App%20Store-Search%20Results%20Page-US&amp;v2=bible&amp;h5=appleitmsnaapmb%2Cappleitmsusapmb&amp;c2=bible</string>
+  </array>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=282935706&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r30/Purple/fc/84/f2/mzl.bfusspir.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>28748 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>282935706</integer>
+      <key>artist-name</key><string>LifeChurch.tv</string>
+      <key>user-rating-count-string</key><string>28748 Ratings</string>
+      <key>user-rating-count</key><integer>28748</integer>
+      <key>average-user-rating</key><real>0.81</real>
+      <key>bundle-id</key><string>tv.lifechurch.bible</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>INSTALL</string>
+          <key>price</key><real>0.00000</real>
+          <key>price-display</key><string>FREE</string>
+          <key>size</key><integer>564792</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-06-11T07:00:00Z</date>
+      <key>version</key><string>1.8</string>
+      <key>version-external-identifier</key><integer>1424991</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>12432</integer>
+        <integer>25421</integer>
+        <integer>29541</integer>
+        <integer>309561</integer>
+        <integer>456971</integer>
+        <integer>616162</integer>
+        <integer>738363</integer>
+        <integer>1416703</integer>
+        <integer>1424991</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>NIV Bible BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=291270748&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/059/Purple/3e/51/8d/mzl.guahavqt.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>12 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>291270748</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>12 Ratings</string>
+      <key>user-rating-count</key><integer>12</integer>
+      <key>average-user-rating</key><real>0.75</real>
+      <key>bundle-id</key><string>NIV-BR</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>11.99000</real>
+          <key>price-display</key><string>$11.99</string>
+          <key>size</key><integer>5778146</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-09-15T07:00:00Z</date>
+      <key>version</key><string>4.08 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1866768</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>401761</integer>
+        <integer>719974</integer>
+        <integer>1421464</integer>
+        <integer>1445100</integer>
+        <integer>1514788</integer>
+        <integer>1790082</integer>
+        <integer>1866768</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>NKJV Bible for BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287462072&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/026/Purple/3e/51/8d/mzl.trhgvwxq.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>13 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>287462072</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>13 Ratings</string>
+      <key>user-rating-count</key><integer>13</integer>
+      <key>average-user-rating</key><real>0.88</real>
+      <key>bundle-id</key><string>NKJV-BR</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>4.99000</real>
+          <key>price-display</key><string>$4.99</string>
+          <key>size</key><integer>4361984</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-06-25T07:00:00Z</date>
+      <key>version</key><string>4.08 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1867428</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>33175</integer>
+        <integer>648962</integer>
+        <integer>1421466</integer>
+        <integer>1445542</integer>
+        <integer>1514790</integer>
+        <integer>1790084</integer>
+        <integer>1867428</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>The Holy Bible King James Version</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300186241&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r30/Purple/84/14/08/mzl.cbmqxgea.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>1303 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>300186241</integer>
+      <key>artist-name</key><string>DMBC</string>
+      <key>user-rating-count-string</key><string>1303 Ratings</string>
+      <key>user-rating-count</key><integer>1303</integer>
+      <key>average-user-rating</key><real>0.79</real>
+      <key>bundle-id</key><string>com.dmbc.bible</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>5590830</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-15T08:00:00Z</date>
+      <key>version</key><string>1.3</string>
+      <key>version-external-identifier</key><integer>1502772</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1410245</integer>
+        <integer>1448654</integer>
+        <integer>1502772</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>The Love Dare: 40 Dares</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=319125405&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/026/Purple/4c/d3/56/mzl.kswmioxn.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>56 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>319125405</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>56 Ratings</string>
+      <key>user-rating-count</key><integer>56</integer>
+      <key>average-user-rating</key><real>0.85</real>
+      <key>bundle-id</key><string>40Dares</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>5193743</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-06-05T07:00:00Z</date>
+      <key>version</key><string>4.07</string>
+      <key>version-external-identifier</key><integer>1753773</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1753773</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible Shaker</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=310878913&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/023/Purple/70/92/69/mzl.btfuozvb.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>86 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>310878913</integer>
+      <key>artist-name</key><string>Moxic Studios</string>
+      <key>user-rating-count-string</key><string>86 Ratings</string>
+      <key>user-rating-count</key><integer>86</integer>
+      <key>average-user-rating</key><real>0.61</real>
+      <key>bundle-id</key><string>BXLL5ZLV2D.com.moxic.BibleShaker</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>1131569</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2.1</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2.1 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-04-01T07:00:00Z</date>
+      <key>version</key><string>1.3</string>
+      <key>version-external-identifier</key><integer>1794731</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1594372</integer>
+        <integer>1631837</integer>
+        <integer>1695361</integer>
+        <integer>1794731</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Our Daily Bread (Bible Verse: NAB, KJV, NIV, Christian)</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312925241&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/056/Purple/a3/88/34/mzl.fgidcwzl.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>61 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>312925241</integer>
+      <key>artist-name</key><string>Cantcha, Inc.</string>
+      <key>user-rating-count-string</key><string>61 Ratings</string>
+      <key>user-rating-count</key><integer>61</integer>
+      <key>average-user-rating</key><real>0.63</real>
+      <key>bundle-id</key><string>com.cantcha.dailybread</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>5494127</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2.1</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2.1 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-04-20T07:00:00Z</date>
+      <key>version</key><string>1.1</string>
+      <key>version-external-identifier</key><integer>1682695</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1633166</integer>
+        <integer>1682695</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>NIV Bible</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=310295776&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/030/Purple/da/aa/eb/mzl.tvzdrjyr.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>21 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>310295776</integer>
+      <key>artist-name</key><string>Tecarta, Inc.</string>
+      <key>user-rating-count-string</key><string>21 Ratings</string>
+      <key>user-rating-count</key><integer>21</integer>
+      <key>average-user-rating</key><real>0.89</real>
+      <key>bundle-id</key><string>com.yourcompany.NIVBible</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>7.99000</real>
+          <key>price-display</key><string>$7.99</string>
+          <key>size</key><integer>10243415</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-03-27T07:00:00Z</date>
+      <key>version</key><string>1.3 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1842820</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1580111</integer>
+        <integer>1709906</integer>
+        <integer>1842820</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287455446&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/009/Purple/3e/51/8d/mzl.bxvnfzgj.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>549 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>287455446</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>549 Ratings</string>
+      <key>user-rating-count</key><integer>549</integer>
+      <key>average-user-rating</key><real>0.69</real>
+      <key>bundle-id</key><string>BibleReader</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>INSTALL</string>
+          <key>price</key><real>0.00000</real>
+          <key>price-display</key><string>FREE</string>
+          <key>size</key><integer>7938206</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-08-05T07:00:00Z</date>
+      <key>version</key><string>4.08 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1866762</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>33173</integer>
+        <integer>648961</integer>
+        <integer>1421462</integer>
+        <integer>1445094</integer>
+        <integer>1514782</integer>
+        <integer>1784415</integer>
+        <integer>1866762</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible Verses Free</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=291945182&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r30/Purple/28/50/b3/mzl.iqcjyjdl.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>14118 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>291945182</integer>
+      <key>artist-name</key><string>Webworks and Applications</string>
+      <key>user-rating-count-string</key><string>14118 Ratings</string>
+      <key>user-rating-count</key><integer>14118</integer>
+      <key>average-user-rating</key><real>0.68</real>
+      <key>bundle-id</key><string>com.webworks.bibleverses</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>INSTALL</string>
+          <key>price</key><real>0.00000</real>
+          <key>price-display</key><string>FREE</string>
+          <key>size</key><integer>529218</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-09-22T07:00:00Z</date>
+      <key>version</key><string>1.01</string>
+      <key>version-external-identifier</key><integer>562372</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>450364</integer>
+        <integer>562372</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>ESV Study Bible for BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=297005727&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/048/Purple/3e/51/8d/mzl.qiqxtkbh.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>10 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>297005727</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>10 Ratings</string>
+      <key>user-rating-count</key><integer>10</integer>
+      <key>average-user-rating</key><real>0.84</real>
+      <key>bundle-id</key><string>ESVStudyBible</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>27.99000</real>
+          <key>price-display</key><string>$27.99</string>
+          <key>size</key><integer>53754928</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-01T08:00:00Z</date>
+      <key>version</key><string>4.08 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1866765</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1128562</integer>
+        <integer>1421468</integer>
+        <integer>1445097</integer>
+        <integer>1514785</integer>
+        <integer>1784418</integer>
+        <integer>1866765</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>TouchWord Bible</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299963723&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/019/Purple/12/b2/3d/mzl.tgatjngy.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>291 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>299963723</integer>
+      <key>artist-name</key><string>TheBarcodeProject</string>
+      <key>user-rating-count-string</key><string>291 Ratings</string>
+      <key>user-rating-count</key><integer>291</integer>
+      <key>average-user-rating</key><real>0.66</real>
+      <key>bundle-id</key><string>5555HAY4HD.touchWordPro</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>2032051</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-17T08:00:00Z</date>
+      <key>version</key><string>2.2.1 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1872566</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1404393</integer>
+        <integer>1426912</integer>
+        <integer>1497717</integer>
+        <integer>1801408</integer>
+        <integer>1845622</integer>
+        <integer>1872566</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Holy Bible</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=291877741&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/039/Purple/18/9e/c9/mzi.shoqfwjs.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>2115 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>291877741</integer>
+      <key>artist-name</key><string>Paul Avery</string>
+      <key>user-rating-count-string</key><string>2115 Ratings</string>
+      <key>user-rating-count</key><integer>2115</integer>
+      <key>average-user-rating</key><real>0.74</real>
+      <key>bundle-id</key><string>com.PeejStudio.HolyBible</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>INSTALL</string>
+          <key>price</key><real>0.00000</real>
+          <key>price-display</key><string>FREE</string>
+          <key>size</key><integer>8517886</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-07-04T07:00:00Z</date>
+      <key>version</key><string>3.1 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1805262</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>451163</integer>
+        <integer>598962</integer>
+        <integer>672974</integer>
+        <integer>928161</integer>
+        <integer>1264971</integer>
+        <integer>1418245</integer>
+        <integer>1445236</integer>
+        <integer>1455591</integer>
+        <integer>1482551</integer>
+        <integer>1495101</integer>
+        <integer>1511718</integer>
+        <integer>1571791</integer>
+        <integer>1620813</integer>
+        <integer>1685535</integer>
+        <integer>1717272</integer>
+        <integer>1805262</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Mantis Bible Study</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=286041914&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/021/Purple/af/1a/3a/mzi.xlgwssot.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>630 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>286041914</integer>
+      <key>artist-name</key><string>Mantis Bible Company</string>
+      <key>user-rating-count-string</key><string>630 Ratings</string>
+      <key>user-rating-count</key><integer>630</integer>
+      <key>average-user-rating</key><real>0.70</real>
+      <key>bundle-id</key><string>com.mantisbible.mantis</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>INSTALL</string>
+          <key>price</key><real>0.00000</real>
+          <key>price-display</key><string>FREE</string>
+          <key>size</key><integer>6578153</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-28T08:00:00Z</date>
+      <key>version</key><string>4.2.0 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1803594</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>25155</integer>
+        <integer>43373</integer>
+        <integer>340361</integer>
+        <integer>434563</integer>
+        <integer>1134571</integer>
+        <integer>1237974</integer>
+        <integer>1391972</integer>
+        <integer>1531697</integer>
+        <integer>1803594</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible Promises</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=306685844&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/015/Purple/ff/a1/04/mzl.rihtfyjg.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>48 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>306685844</integer>
+      <key>artist-name</key><string>ReignDesign</string>
+      <key>user-rating-count-string</key><string>48 Ratings</string>
+      <key>user-rating-count</key><integer>48</integer>
+      <key>average-user-rating</key><real>0.69</real>
+      <key>bundle-id</key><string>com.reigndesign.biblepromises</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>1.99000</real>
+          <key>price-display</key><string>$1.99</string>
+          <key>size</key><integer>1431039</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2.1</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2.1 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-03-01T08:00:00Z</date>
+      <key>version</key><string>1.3</string>
+      <key>version-external-identifier</key><integer>1765482</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1495686</integer>
+        <integer>1553993</integer>
+        <integer>1632761</integer>
+        <integer>1765482</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>La Biblia Reina Valera (Spanish Bible)</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=310658745&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/057/Purple/f5/f7/81/mzl.utfadnjo.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>22 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>310658745</integer>
+      <key>artist-name</key><string>LoudReader Inc</string>
+      <key>user-rating-count-string</key><string>22 Ratings</string>
+      <key>user-rating-count</key><integer>22</integer>
+      <key>average-user-rating</key><real>0.85</real>
+      <key>bundle-id</key><string>com.loudreader.spanishreinavalera</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>1.99000</real>
+          <key>price-display</key><string>$1.99</string>
+          <key>size</key><integer>3897376</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-06-26T07:00:00Z</date>
+      <key>version</key><string>4.0 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1802293</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1590372</integer>
+        <integer>1653827</integer>
+        <integer>1702395</integer>
+        <integer>1802293</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>NASB Bible Bundle for BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300991597&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/007/Purple/3e/51/8d/mzl.gsftahza.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>28 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>300991597</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>28 Ratings</string>
+      <key>user-rating-count</key><integer>28</integer>
+      <key>average-user-rating</key><real>0.94</real>
+      <key>bundle-id</key><string>NASBBundle</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>29.99000</real>
+          <key>price-display</key><string>$29.99</string>
+          <key>size</key><integer>29821869</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-23T08:00:00Z</date>
+      <key>version</key><string>4.08 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1867426</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1421971</integer>
+        <integer>1445099</integer>
+        <integer>1514787</integer>
+        <integer>1790081</integer>
+        <integer>1867426</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Scripture of the Day (KJV Bible)</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299263493&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r30/Purple/e2/f4/52/mzl.azftwkvs.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>62 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>299263493</integer>
+      <key>artist-name</key><string>Tyson Baker</string>
+      <key>user-rating-count-string</key><string>62 Ratings</string>
+      <key>user-rating-count</key><integer>62</integer>
+      <key>average-user-rating</key><real>0.79</real>
+      <key>bundle-id</key><string>com.gmail.indoorsy</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>1633193</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-12-17T08:00:00Z</date>
+      <key>version</key><string>1.1</string>
+      <key>version-external-identifier</key><integer>1518301</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1386151</integer>
+        <integer>1518301</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible Trivia</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=291136418&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/057/Purple/f3/f7/1c/mzl.badfjdux.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>42 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>291136418</integer>
+      <key>artist-name</key><string>Europa Pictures</string>
+      <key>user-rating-count-string</key><string>42 Ratings</string>
+      <key>user-rating-count</key><integer>42</integer>
+      <key>average-user-rating</key><real>0.71</real>
+      <key>bundle-id</key><string>com.amazing.bibletrivia</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>3.99000</real>
+          <key>price-display</key><string>$3.99</string>
+          <key>size</key><integer>5368719</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2.1</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2.1 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-05-05T07:00:00Z</date>
+      <key>version</key><string>2.0</string>
+      <key>version-external-identifier</key><integer>1707844</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>375562</integer>
+        <integer>1707844</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>VerseWise Bible KJV</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284947381&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><false/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r30/Purple/83/1e/b8/mzl.oxncoxyp.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>52 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>284947381</integer>
+      <key>artist-name</key><string>VDUB</string>
+      <key>user-rating-count-string</key><string>52 Ratings</string>
+      <key>user-rating-count</key><integer>52</integer>
+      <key>average-user-rating</key><real>0.77</real>
+      <key>bundle-id</key><string>2F8KNBSUFW.us.vdub.versewise</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>1.99000</real>
+          <key>price-display</key><string>$1.99</string>
+          <key>size</key><integer>2583097</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-03-08T08:00:00Z</date>
+      <key>version</key><string>2.0.1</string>
+      <key>version-external-identifier</key><integer>1498988</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>19121</integer>
+        <integer>28212</integer>
+        <integer>80962</integer>
+        <integer>313981</integer>
+        <integer>506372</integer>
+        <integer>1010763</integer>
+        <integer>1125322</integer>
+        <integer>1259961</integer>
+        <integer>1489832</integer>
+        <integer>1498988</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Amplified Bible for BibleReader</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290967580&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/020/Purple/3e/51/8d/mzl.jgtajcen.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>8 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>290967580</integer>
+      <key>artist-name</key><string>Olive Tree Bible Software, INc</string>
+      <key>user-rating-count-string</key><string>8 Ratings</string>
+      <key>user-rating-count</key><integer>8</integer>
+      <key>average-user-rating</key><real>0.83</real>
+      <key>bundle-id</key><string>AMP-BR</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>9.99000</real>
+          <key>price-display</key><string>$9.99</string>
+          <key>size</key><integer>4995324</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2008-09-11T07:00:00Z</date>
+      <key>version</key><string>4.08.144 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1866761</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>370161</integer>
+        <integer>719973</integer>
+        <integer>1421461</integer>
+        <integer>1445093</integer>
+        <integer>1514781</integer>
+        <integer>1784414</integer>
+        <integer>1866761</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible: ASV &amp; KJV</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300090888&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/044/Purple/a3/b1/18/mzi.cfxuaklm.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>45 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>300090888</integer>
+      <key>artist-name</key><string>f-gap</string>
+      <key>user-rating-count-string</key><string>45 Ratings</string>
+      <key>user-rating-count</key><integer>45</integer>
+      <key>average-user-rating</key><real>0.73</real>
+      <key>bundle-id</key><string>com.yourcompany.Bible2</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>0.99000</real>
+          <key>price-display</key><string>$0.99</string>
+          <key>size</key><integer>7759031</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-06-15T07:00:00Z</date>
+      <key>version</key><string>1.15</string>
+      <key>version-external-identifier</key><integer>1754785</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1410882</integer>
+        <integer>1423192</integer>
+        <integer>1495071</integer>
+        <integer>1754785</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Bible Dictionary Collections</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=317181695&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/049/Purple/06/ff/17/mzi.bmelbukn.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>9 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>317181695</integer>
+      <key>artist-name</key><string>HANDECH INTERNATIONAL LIMITED</string>
+      <key>user-rating-count-string</key><string>9 Ratings</string>
+      <key>user-rating-count</key><integer>9</integer>
+      <key>average-user-rating</key><real>0.87</real>
+      <key>bundle-id</key><string>BibleDict.kingneed.net</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>1.99000</real>
+          <key>price-display</key><string>$1.99</string>
+          <key>size</key><integer>27196304</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>2.2.1</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 2.2.1 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-06-08T07:00:00Z</date>
+      <key>version</key><string>1.0</string>
+      <key>version-external-identifier</key><integer>1718323</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>1718323</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>link</string>
+      <key>title</key><string>Acro Bible NIV Plus</string>
+      <key>url</key><string>http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=283414629&amp;mt=8</string>
+      <key>url-page-type</key><string>software</string>
+      <key>artwork-urls</key>
+      <array>
+        <dict>
+          <key>box-height</key><integer>57</integer>
+          <key>needs-shine</key><true/>
+          <key>url</key><string>http://a1.phobos.apple.com/us/r1000/041/Purple/b0/e8/ea/mzl.fhglvurm.png</string>
+          <key>box-width</key><integer>57</integer>
+        </dict>
+      </array>
+      <key>title2</key><string>62 Ratings</string>
+      <key>link-type</key><string>software</string>
+      <key>item-id</key><integer>283414629</integer>
+      <key>artist-name</key><string>AcroDesign Technologies</string>
+      <key>user-rating-count-string</key><string>62 Ratings</string>
+      <key>user-rating-count</key><integer>62</integer>
+      <key>average-user-rating</key><real>0.36</real>
+      <key>bundle-id</key><string>com.acrodesigntech.niv</string>
+      <key>store-offers</key>
+      <dict>
+        <key>STDQ</key>
+        <dict>
+          <key>action-display-name</key><string>BUY NOW</string>
+          <key>price</key><real>13.99000</real>
+          <key>price-display</key><string>$13.99</string>
+          <key>size</key><integer>8396648</integer>
+          <key>supported-devices</key>
+          <array>
+            <integer>1</integer>
+          </array>
+          <key>supported-device-types</key>
+          <array>
+            <dict>
+              <key>device-type-id</key><integer>1</integer>
+              <key>minimum-product-version</key><string>3.0</string>
+              <key>minimum-product-version-title</key><string>Application Not Compatible</string>
+              <key>minimum-product-version-description</key><string>This application requires the iPhone 3.0 Software Update</string>
+            </dict>
+          </array>
+        </dict>
+      </dict>
+      <key>release-date</key><date>2009-08-14T07:00:00Z</date>
+      <key>version</key><string>3.1 (iPhone OS 3.0 Tested)</string>
+      <key>version-external-identifier</key><integer>1847558</integer>
+      <key>version-external-identifiers</key>
+      <array>
+        <integer>13801</integer>
+        <integer>21243</integer>
+        <integer>32263</integer>
+        <integer>378561</integer>
+        <integer>461961</integer>
+        <integer>1418455</integer>
+        <integer>1436655</integer>
+        <integer>1457130</integer>
+        <integer>1748885</integer>
+        <integer>1847558</integer>
+      </array>
+    </dict>
+    <dict>
+      <key>type</key><string>more</string>
+      <key>title</key><string>Show 25 More</string>
+      <key>url</key><string>http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?startIndex=24&amp;entity=software&amp;term=bible&amp;media=software&amp;displayIndex=24</string>
+      <key>total-items</key><integer>564</integer>
+    </dict>
+  </array>
+</dict>
+</plist>
